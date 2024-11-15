@@ -39,3 +39,7 @@ The Power House app includes multiple screens designed to guide users through va
 - **Custom Workout Plans**: Set weekly goals and manage workout plans.
 - **Social Engagement**: Duels, rewards, and friend invitations for a community-oriented experience.
 - **User Progress Visualization**: Clear, visually engaging stats and goals for motivation.
+
+
+## How to Use This Repository
+View the Prototype: Open the ![Figma link](https://www.figma.com/proto/ocC4xecYXzLtUFrU7QbMqZ/Fitness-app-Prototype?page-id=2%3A154&node-id=202-11097&node-type=canvas&viewport=-513%2C213%2C0.32&t=ZdYFto2BbkD4II5K-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=202%3A11097&share=1) to explore the interactive prototype.
