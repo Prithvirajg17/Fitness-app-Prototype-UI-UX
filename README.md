@@ -2,7 +2,7 @@
 
 This repository contains the Figma design prototype for the **Power House** fitness application. This app is designed to help users manage their fitness journey by tracking workouts, calories, steps, and health statistics, providing a personalized and engaging experience.
 
-![Power House Screens]((https://github.com/Prithvirajg17/Fitness-app-Prototype-UI-UX/blob/7d9d50ec10d074cb64158416c17ba152da8f038c/Fitness%20App%20UI.png))
+![Power House Screens](https://github.com/Prithvirajg17/Fitness-app-Prototype-UI-UX/blob/7d9d50ec10d074cb64158416c17ba152da8f038c/Fitness%20App%20UI.png)
 
 ## Prototype Overview
 
